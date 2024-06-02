@@ -1,7 +1,6 @@
 package ru.netology.services;
 
 // Импорт класса FreelancerService
-import ru.netology.services.FreelancerService;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
