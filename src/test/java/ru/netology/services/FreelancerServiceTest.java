@@ -1,7 +1,6 @@
-// Импорт класса FreelancerService
+package ru.netology.services;// Импорт класса FreelancerService
 
 import org.junit.jupiter.api.Test;
-import ru.FreelancerService;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

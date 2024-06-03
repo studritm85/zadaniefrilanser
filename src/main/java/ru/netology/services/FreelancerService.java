@@ -1,4 +1,4 @@
-package ru;
+package ru.netology.services;
 
 public class FreelancerService {
     public int calcFreelancerMonths(int income, int expenses, int threshold) {
