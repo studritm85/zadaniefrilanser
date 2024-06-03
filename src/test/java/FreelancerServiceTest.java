@@ -1,5 +1,3 @@
-package ru.netology;
-
 // Импорт класса FreelancerService
 
 import org.junit.jupiter.api.Test;
